@@ -8,8 +8,8 @@
       <p><b>邮箱：1234567789@qq.com</b></p>
       <p><b>地址：×××</b></p>
     </td>
-    <td width="25%">
-      <img src="/eee.jpg" width="100%">
+    <td width="50%">
+      <img src="/eee.jpg" width="75%">
     </td>
   </tr>
 </table>
